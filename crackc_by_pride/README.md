@@ -52,7 +52,9 @@ So the program takes a name as a input then it stores the lenght of the name....
 
 after that it adds 0xCA to lenth of the name
 
-then a xor operaton to the value 0x3D8D40F
+then a xor operaton 
+
+length of name ^ 0x3D8D40F
 
 ---
 
