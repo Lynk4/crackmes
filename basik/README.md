@@ -27,4 +27,4 @@ Load the binary in ghidra...............
 
 
 
---
+---
