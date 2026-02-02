@@ -156,10 +156,7 @@ The `PasswordCheck` function checks for characters in **exactly 10 specific rang
 
 ```python3
 #!/usr/bin/env python3
-"""
-Password solver for the binary challenge
-Based on the exact character ranges from the assembly code
-"""
+
 
 # Exact character ranges from assembly
 ranges = [
